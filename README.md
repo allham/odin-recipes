@@ -1,3 +1,3 @@
 # odin-recipes
-Creating recipes using html.
+Creating recipe using html.
 
